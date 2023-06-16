@@ -38,4 +38,7 @@ if (! -f $argv[1] || $argv[1] == "-help") then
                 exit 1
         endif
 ```
+![Screenshot from 2023-06-16 19-36-50](https://github.com/ronie05/TCL-workshop/assets/111235153/c4fe17df-a16a-4f2f-9a10-99196245b304)
+
+
 
