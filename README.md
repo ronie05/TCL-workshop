@@ -40,5 +40,23 @@ if (! -f $argv[1] || $argv[1] == "-help") then
 ```
 ![Screenshot from 2023-06-16 19-36-50](https://github.com/ronie05/TCL-workshop/assets/111235153/c4fe17df-a16a-4f2f-9a10-99196245b304)
 
+Day 2 
+
+1. Removing spaces between the elements in csv file and autocreating the varialbles.
+2. Converting the csv file into matrix format to access and perform various operations.
+3. Computing number of rows. 
+
+![Screenshot from 2023-06-19 23-15-40](https://github.com/ronie05/TCL-workshop/assets/111235153/24be36f7-ba3c-4665-83c8-86c7609acef4)
+
+
+![Screenshot 2023-06-20 235545](https://github.com/ronie05/TCL-workshop/assets/111235153/3553243b-3d53-4b4a-857d-0f12b2b16640)
+
+Day 3
+
+1.Converting csv to sdc format
+2.Accessing files and creating and comparing patterns 
+3.Grepping the input ports and differentiating bits and busses amongst them.
+4.
+
 
 
