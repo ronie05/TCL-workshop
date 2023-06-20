@@ -53,9 +53,9 @@ Day 2
 
 Day 3
 
-1.Converting csv to sdc format
-2.Accessing files and creating and comparing patterns 
-3.Grepping the input ports and differentiating bits and busses amongst them.
+1. Converting csv to sdc format
+2. Accessing files and creating and comparing patterns 
+3. Grepping the input ports and differentiating bits and busses amongst them.
 
 ![Screenshot 2023-06-20 235545](https://github.com/ronie05/TCL-workshop/assets/111235153/acc40f5b-715d-49da-a1a0-216c0d1a536e)
 
